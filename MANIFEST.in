@@ -1,0 +1,12 @@
+graft docs
+graft examples
+graft src
+graft tests
+
+include AUTHORS.rst
+include CHANGELOG.rst
+include CONTRIBUTING.rst
+include LICENSE
+include README.rst
+
+global-exclude *.py[co] __pycache__
