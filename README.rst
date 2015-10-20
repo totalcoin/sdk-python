@@ -60,8 +60,3 @@ Puedes hacer checkout de una operación de la siguiente forma:
     {...}
 
 
-Puedes correr los tests de la libreria de la siguiente forma:
-
-::
-
-   [foo@host]$ python tests/test_api.py 
